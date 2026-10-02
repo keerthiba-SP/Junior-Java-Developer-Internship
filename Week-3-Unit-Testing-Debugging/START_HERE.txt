@@ -1,0 +1,22 @@
+WEEK 3 - UNIT TESTING AND DEBUGGING
+===================================
+
+This is a runnable Java project.
+
+WINDOWS:
+1. Install JDK 17 or newer.
+2. Double-click RUN.bat to start the Library Management application.
+3. Double-click RUN_TESTS.bat to run the included dependency-free verification tests.
+
+MAVEN / JUNIT 5:
+Open a terminal in this folder and run:
+    mvn test
+
+The JUnit tests are in:
+    src/test/java/LibraryTest.java
+
+The dependency-free verification runner is:
+    VerificationRunner.java
+
+The project includes the required debugging report:
+    Week-3-Debugging-Report.docx
